@@ -1,4 +1,5 @@
 # Activity 13.2: Dynamic Account Rules Integration
+STEP CLASS
 
 ## Objective
 Connect account domain classes and `AccountFactory` to `AccountRulesEngine` so that minimum balances and interest rates are assigned dynamically at runtime based on customer tenure.
